@@ -1,4 +1,4 @@
-package com.linweiyuan.dubboconsumer;
+package com.linweiyuan.dubbo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
